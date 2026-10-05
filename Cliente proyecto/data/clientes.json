@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "Gonzalo",
+    "apellido": "vera",
+    "email": "gvera@gmail.com",
+    "telefono": "0912345678",
+    "ciudad": "Samborondon",
+    "direccion": "Los chijos"
+  },
+  {
+    "id": 2,
+    "nombre": "Magdalena",
+    "apellido": "Tomala",
+    "email": "mtomala@gmail.com",
+    "telefono": "0987654321",
+    "ciudad": "Samborondon",
+    "direccion": "palo blanco"
+  },
+  {
+    "id": 3,
+    "nombre": "Santiago",
+    "apellido": "Tomala",
+    "email": "santitomala@gmail.com",
+    "telefono": "0923445682",
+    "ciudad": "Samborondon",
+    "direccion": "Los chijos"
+  },
+  {
+    "id": 4,
+    "nombre": "Maria",
+    "apellido": "De la Rosa",
+    "email": "mdelarosa@gmail.com",
+    "telefono": "09253871931",
+    "ciudad": "Samborondon",
+    "direccion": "el chorron"
+  },
+  {
+    "id": 5,
+    "nombre": "Hector",
+    "apellido": "Tomala",
+    "email": "htomala@gmail.com",
+    "telefono": "0944577822",
+    "ciudad": "Samborondon",
+    "direccion": "la delicia"
+  }
+]
